@@ -1,0 +1,14 @@
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\bin\Debug\netcoreapp2.1\myhelloworld.deps.json
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\bin\Debug\netcoreapp2.1\myhelloworld.runtimeconfig.json
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\bin\Debug\netcoreapp2.1\myhelloworld.runtimeconfig.dev.json
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\bin\Debug\netcoreapp2.1\myhelloworld.dll
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\bin\Debug\netcoreapp2.1\myhelloworld.pdb
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.csprojAssemblyReference.cache
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.RazorAssemblyInfo.cache
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.RazorAssemblyInfo.cs
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.AssemblyInfoInputs.cache
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.AssemblyInfo.cs
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.RazorTargetAssemblyInfo.cache
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.dll
+C:\Users\srinivas.lakkineni\Source\Repos\myhelloworld\myhelloworld\obj\Debug\netcoreapp2.1\myhelloworld.pdb
